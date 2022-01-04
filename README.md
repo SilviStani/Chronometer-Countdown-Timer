@@ -1,2 +1,2 @@
 # Chronometer-Countdown-Timer
-Easy React App.
+Easy React App with javascript.
